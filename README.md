@@ -4,5 +4,9 @@ This is my first ThreeJS project that animates a Sphere in 3D space. You can cha
 
 ```
 npm install
+```
+
+```
 npm run dev
 ```
+
